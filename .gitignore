@@ -1,0 +1,5 @@
+#Ignore biicode metadata and build files
+/bii/
+/deps/
+/build/
+/cmake/
