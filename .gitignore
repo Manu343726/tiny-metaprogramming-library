@@ -1,0 +1,7 @@
+# ignore biicode files
+
+/bii/
+/deps/
+/cmake/
+/build/
+/bin/
