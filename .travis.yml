@@ -1,3 +1,4 @@
+language: c++
 deploy:
   provider: biicode
   user: manu343726
