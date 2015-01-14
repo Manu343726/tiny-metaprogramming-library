@@ -1,4 +1,6 @@
 language: c++
+script:
+  - echo "hello! I'm too lazy to write proper unit tests!""
 deploy:
   provider: biicode
   user: manu343726
