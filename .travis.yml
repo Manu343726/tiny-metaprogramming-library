@@ -1,0 +1,5 @@
+deploy:
+  provider: biicode
+  user: manu343726
+  password:
+    secure: Fvhl38+UOETLfHMx+hrUvyZerClAWRrVWaAb58ZJRlZNPhpAGcLFQQO2V2kWdGTrU0e4hZprtDjsDwac73Zuwzk6KulHrhG4LJDL6IunHmq0OLdckjrmdXwQxsHRUqeRchjOnPPuMmWSSJ0H1WrNaVUs5Dx1AFXV+vX0BabuMBQ=
