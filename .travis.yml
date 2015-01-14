@@ -1,4 +1,8 @@
 language: c++
+install:
+  - wget http://apt.biicode.com/install.sh && chmod +x install.sh && ./install.sh
+  - bii setup:cpp
+  - bii init
 script:
   - echo "hello! I'm too lazy to write proper unit tests!"
 deploy:
